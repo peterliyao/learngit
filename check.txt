@@ -1,3 +1,5 @@
 this file is check 
 this is my first gitHub file
 this is push test
+Today is my lucky day
+why is not push to gitHub
